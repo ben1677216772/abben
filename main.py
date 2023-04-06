@@ -1,7 +1,7 @@
 import discord
 import openai
-openai.api_key = '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'
-TOKEN = 'MTA5MzAwNTMwNTc2OTYzNTkwMQ.GmtYXa.kQ7PWS5-vt92HXnl1qTOGh--6W29v2CarvSet4'
+openai.api_key = 'token from openai'
+TOKEN = 'token from discord'
 intents = discord.Intents.default()
 intents.message_content = True
 intents.members =True
